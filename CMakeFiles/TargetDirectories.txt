@@ -1,0 +1,3 @@
+/home/pi/face_landmark/CMakeFiles/rebuild_cache.dir
+/home/pi/face_landmark/CMakeFiles/main.dir
+/home/pi/face_landmark/CMakeFiles/edit_cache.dir
